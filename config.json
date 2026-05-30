@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsencrypt",
+        "uuid": 1318625,
+        "checksum": "lijqa"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
